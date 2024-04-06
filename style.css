@@ -43,6 +43,21 @@ header .textos-header{
     justify-content: center;
     text-align: center;
     color: white;
+    flex-direction: column;
+    
+}
+
+.textos-header h1{
+    font-size: 40px;
+    margin-top: -20px;
+    
+}
+
+.textos-header h3{
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: 20px;
+
 }
 
 .wave{
@@ -147,6 +162,67 @@ section .container{
 }
 
 .card .contenido a:hover{
+    background: rgba(0, 255, 255, 0.527);
+    color: white;
+}
+
+#section-3{
+    
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(imagenes/cardh.jpg);
+}
+
+.cardh{
+    background-color: #226eb6b7;
+    box-shadow: 0 0 0.9375rem;
+    width: 800px;
+    border-radius: 4px;
+    display: flex;
+
+}
+
+.cardh img{
+    flex: 0 0 50%;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.cardh .contenido{
+    padding: 15px;
+    text-align: center;
+    margin-top: 80px;
+
+}
+
+.cardh .contenido p{
+    line-height: 1.5;
+    color: #faf6f6;
+}
+
+.cardh .contenido h3{
+    font-weight: 400;
+    margin-bottom:  15px;
+}
+
+.cardh .contenido a{
+
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    margin-top: 10px;
+    color: aqua;
+    border: 1px solid rgb(33, 204, 226);
+    border-radius: 4px;
+    transition: all 400ms ease;
+    
+
+}
+.cardh .contenido a:hover{
     background: rgba(0, 255, 255, 0.527);
     color: white;
 }
