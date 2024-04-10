@@ -7,7 +7,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="inicio.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha384-UMpKfLGJx1GLOiwOWOI6b+3Z+5MQfUvRSds4VPSzFzo+N8A/tTw3IgaKsJZ4bRJ/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha384-UMpKfLGJx1GLOiwOWOI6b+3Z+5MQfUvRSds4VPSzFzo+N8A/tTw3IgaKsJZ4bRJ/" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <title>Inicio</title>
 </head>
@@ -38,7 +40,7 @@
     </section>
 
     <section id="section-1">
-    <a class="material-symbols-outlined" href="#section-2" >keyboard_double_arrow_down </a>
+    <!--<a class="material-symbols-outlined" href="#section-2" >keyboard_double_arrow_down </a>-->
    </section>
 
    <section id="section-2">
@@ -46,7 +48,7 @@
 
         <div class="card">
             <figure>
-                <img src="imagenes/card1.jpg" alt="">
+                <img src="../imagenes/card1.jpg" alt="">
             </figure>
             <div class="contenido">
                 <h3>La tortuga Carey</h3>
@@ -57,7 +59,7 @@
 
         <div class="card">
             <figure>
-                <img src="imagenes/card2.jpg" alt="">
+                <img src="../imagenes/card2.jpg" alt="">
             </figure>
             <div class="contenido">
                 <h3>Tiburon gato</h3>
@@ -69,7 +71,7 @@
 
         <div class="card">
             <figure>
-                <img src="imagenes/card3.jpg" alt="">
+                <img src="../imagenes/card3.jpg" alt="">
             </figure>
             <div class="contenido">
                 <h3>Pez loro</h3>
@@ -85,7 +87,7 @@
         
         <div class="cardh">
             <figure>
-                <img src="imagenes/cardh.jpg" alt="">
+                <img src="../imagenes/cardh.jpg" alt="">
             </figure>
             <div class="contenido">
                 <h3>La ruta migratoria del Océano Pacífico Tropical en peligro</h3>
@@ -93,9 +95,33 @@
                 <a href="#">Leer mas</a>
             </div>
         </div>
-
-
-
      </section>
+
+     <footer>
+      <div class="cajaInfo">
+      <div class="contacto">
+    <h4><i class="fas fa-envelope"></i> Correo Electronico</h4>
+    <p>vidamarina@gmail.com</p><br>
+
+    <h4><i class="fas fa-phone"></i> Telefono</h4>
+    <p>3134567889</p><br>
+
+    <h4><i class="fas fa-map-marker-alt"></i> Dirección</h4>
+    <p>Carrera 92#67 Ibague</p>
+</div>
+
+
+        <div class="cajaComentario">
+            <form action="" method="post">
+                <h5>Ingresa tu comentario de recomendacíon:</h5>
+                <textarea rows="5" cols="30"></textarea><br><br>
+               <input type="submit" value="Enviar comentario">
+            </form>
+
+        </div>
+
+     </div>
+        
+     </footer>
 </body>
 </html>
