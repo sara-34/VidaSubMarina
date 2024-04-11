@@ -8,13 +8,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./secciones.css">
+    <link rel="stylesheet" href="secciones.css">
     <title>secciones</title>
+    
 </head>
 <body>
 <header>
         <nav>
-          
             <a href="/VidaSubmarina/paginaInicio/">inicio</a>
             <a href="#footer">contactanos</a>
             <a href="#">secciones</a>
@@ -26,7 +26,7 @@
 
         <div class="card">
             <div class="face front">
-                <img src="card4.jpg" alt="2">
+                <img src="../imagenes/card1.jpg" alt="2">
                 <h3>Japon</h3> 
             </div>
 
@@ -38,7 +38,7 @@
                    facilis asperiores ad voluptate numquam, magnam sapiente?
                 </p>
                 <div class="link">
-                    <a href="#">detalles</a>
+                    <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion1.php">detalles</a>
                 </div>        
             </div>
         </div>
@@ -47,7 +47,7 @@
         
         <div class="card">
             <div class="face front">
-                <img src="card4.jpg" alt="2">
+                <img src="../imagenes/cardh.jpg" alt="2">
                 <h3>turquia</h3> 
             </div>
 
@@ -59,7 +59,7 @@
                    facilis asperiores ad voluptate numquam, magnam sapiente?
                 </p>
                 <div class="link">
-                    <a href="#">detalles</a>
+                    <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion2.php">detalles</a>
                 </div>        
             </div>
         </div>
@@ -68,7 +68,7 @@
         
         <div class="card">
             <div class="face front">
-                <img src="card4.jpg" alt="2">
+                <img src="../imagenes/card2.jpg" alt="2">
                 <h3>alemania</h3> 
             </div>
 
@@ -80,7 +80,7 @@
                    facilis asperiores ad voluptate numquam, magnam sapiente?
                 </p>
                 <div class="link">
-                    <a href="#">detalles</a>
+                    <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion3.php">detalles</a>
                 </div>        
             </div>
         </div>
@@ -89,7 +89,7 @@
         
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/card1.jpg" alt="2">
+                <img src="../imagenes/card3.jpg" alt="2">
                 <h3>ecuador</h3> 
             </div>
 
@@ -101,7 +101,7 @@
                    facilis asperiores ad voluptate numquam, magnam sapiente?
                 </p>
                 <div class="link">
-                    <a href="#">detalles</a>
+                    <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion4.php">detalles</a>
                 </div>        
             </div>
         </div>
@@ -124,7 +124,7 @@
                    facilis asperiores ad voluptate numquam, magnam sapiente?
                 </p>
                 <div class="link">
-                    <a href="#">detalles</a>
+                    <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion5.php">detalles</a>
                 </div>        
             </div>
         </div>
@@ -132,7 +132,7 @@
     </section>
 
     <section id="section-2">
-     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgb(255, 255, 255);"></path></svg></div>
+     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgba(15, 166, 226, 0.877);"></path></svg></div>
      <h1><br><br><br></h1>
     </section>
 

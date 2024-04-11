@@ -8,7 +8,9 @@
 
 }
 
-
+body{
+    background: rgb(15, 166, 226);
+}
 
 
 
@@ -17,7 +19,7 @@ nav{
     padding: 30px 50px 0 0;
 }
 nav > a{
-    color: rgb(139, 16, 16);
+    color: rgb(255, 255, 255);
     font-weight: 300;
     text-decoration: none;
     margin-right: 10px;
@@ -36,7 +38,7 @@ nav > a:hover{
     flex-wrap:wrap ;
     justify-content: center;
     align-items: center;
-    background: #ffffff; 
+    background: rgb(15, 166, 226);
    
    
 }
