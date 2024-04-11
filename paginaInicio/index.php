@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="inicio.css">
+    <link rel="stylesheet" href="./inicio.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha384-UMpKfLGJx1GLOiwOWOI6b+3Z+5MQfUvRSds4VPSzFzo+N8A/tTw3IgaKsJZ4bRJ/" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha384-UMpKfLGJx1GLOiwOWOI6b+3Z+5MQfUvRSds4VPSzFzo+N8A/tTw3IgaKsJZ4bRJ/" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
@@ -16,15 +16,17 @@
 <body>
 <header>
         <nav>
-            <a href="#">inicio</a>
-            <a href="#">contactanos</a>
-            <a href="#">secciones</a>
+          
+            <a href="">inicio</a>
+            <a href="#footer">contactanos</a>
+            <a href="/VidaSubmarina/paginaInicio/paginasecciones/secciones.php">secciones</a>
+          
         </nav>
         <section class="textos-header">
             <h1>La vida submarina en colombia</h1>
             <h3>Colombia es una de las cinco naciones con mayor diversidad marina en el planeta. Gracias a sus condiciones biogeográficas es considerado un país privilegiado porque cuenta naturalmente con costas en dos océanos y con gran variedad de ecosistemas marinos y costeros.</h3>
         </section>
-        <!--<div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgb(255, 255, 255);"></path></svg></div>-->
+        <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgb(255, 255, 255);"></path></svg></div>
     </header>
 
     <section class"info">
@@ -96,7 +98,12 @@
         </div>
      </section>
 
-     <footer>
+
+     <section id="section-4">
+     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgb(255, 255, 255);"></path></svg></div>
+     </section>
+
+     <footer id="footer">
       <div class="cajaInfo">
       <div class="contacto">
     <h4><i class="fas fa-envelope"></i> Correo Electronico</h4>

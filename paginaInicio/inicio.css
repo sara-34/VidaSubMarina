@@ -92,8 +92,8 @@ section{
     justify-content: center;
     align-items: center;
     background: #2C3E50; 
-    background: -webkit-linear-gradient(to right,  #43a1af81, #89d4e07a); 
-    background: linear-gradient(to right, #43a1af81, #89d4e07a); 
+    background: -webkit-linear-gradient(to right,  #43a1af81, #89d4e07a), url(../imagenes/partesu.jpg); 
+    background: linear-gradient(to right, #43a1af81, #89d4e07a), url(../imagenes/partesu.jpg); 
     background-size: cover;
     
 }
