@@ -24,19 +24,27 @@
         </nav>
         <section class="textos-header">
             <h1>La vida submarina en colombia</h1>
-            <h3>Colombia es una de las cinco naciones con mayor diversidad marina en el planeta. Gracias a sus condiciones biogeográficas es considerado un país privilegiado porque cuenta naturalmente con costas en dos océanos y con gran variedad de ecosistemas marinos y costeros.</h3>
+            <p>Colombia es una de las cinco naciones con mayor diversidad marina en el planeta. Gracias a sus condiciones biogeográficas es considerado un país privilegiado porque cuenta naturalmente con costas en dos océanos y con gran variedad de ecosistemas marinos y costeros.</p>
         </section>
         <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgb(255, 255, 255);"></path></svg></div>
     </header>
 
-    <section class"info">
-        <div class="inicio">
-            <p>La vida marina, vida en el mar o vida oceánica, 
+    <section class"section-3">
+        <div class="cardh card-info">
+            <div class="img-inf">
+               <img src="./imagenes/mar.jpg" alt="">
+            </div>
+                
+            <div class="contenido">
+                <h2>El mar y su vida submarina </h2><br>
+                <p>La vida marina, vida en el mar o vida oceánica, 
             la conforman las plantas, los animales y otros organismos 
             que viven en el agua salada de los mares y océanos, 
             o el agua salobre de los estuarios costeros. 
             En un nivel fundamental, la vida marina ayuda a 
             determinar la naturaleza misma de nuestro planeta.</p>
+                <a href="#">Leer mas</a>
+            </div>
         </div>
     </section>
 
