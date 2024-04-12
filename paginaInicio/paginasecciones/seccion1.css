@@ -164,11 +164,11 @@ footer {
   }
   
   .contacto, .cajaComentario {
-    width: 45%;
+    width: 50%;
   }
   
   .cajaComentario {
-    width: 20%;
+    width: 22%;
     height: 50vh;
     margin-right: 50px;
     background-color: rgba(51, 143, 236, 0.507);

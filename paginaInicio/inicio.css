@@ -240,7 +240,7 @@ section .container{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./imagenes/cardh.jpg);
+    background-image: url(../imagenes/cardh.jpg);
 }
 
 .cardh{
