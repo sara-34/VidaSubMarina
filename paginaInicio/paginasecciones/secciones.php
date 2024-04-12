@@ -26,12 +26,12 @@
 
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/card1.jpg" alt="2">
-                <h3>Japon</h3> 
+                <img src="../imagenes/img10.jpg" alt="2">
+                <h3>Introducción a la vida submarina:</h3> 
             </div>
 
             <div class="face back">
-                <h3>japon</h3>
+                <h3>Introducción a la vida submarina:</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                    Doloribus excepturi adipisci vero quod reprehenderit vel 
                    voluptatibus quasi fuga cumque id mollitia optio distinctio
@@ -47,12 +47,12 @@
         
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/cardh.jpg" alt="2">
-                <h3>turquia</h3> 
+                <img src="../imagenes/img4.jpg" alt="2">
+                <h3>Exploración de especies marinas</h3> 
             </div>
 
             <div class="face back">
-                <h3>turquia</h3>
+                <h3>Exploración de especies marinas</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                    Doloribus excepturi adipisci vero quod reprehenderit vel 
                    voluptatibus quasi fuga cumque id mollitia optio distinctio
@@ -68,12 +68,12 @@
         
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/card2.jpg" alt="2">
-                <h3>alemania</h3> 
+                <img src="../imagenes/img5.jpg" alt="2">
+                <h3>Conservación marina</h3> 
             </div>
 
             <div class="face back">
-                <h3>alemania</h3>
+                <h3>Conservación marina</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                    Doloribus excepturi adipisci vero quod reprehenderit vel 
                    voluptatibus quasi fuga cumque id mollitia optio distinctio
@@ -89,12 +89,12 @@
         
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/card3.jpg" alt="2">
-                <h3>ecuador</h3> 
+                <img src="../imagenes/img6.jpg" alt="2">
+                <h3>Tecnología y equipos de buceo</h3> 
             </div>
 
             <div class="face back">
-                <h3>ecuador</h3>
+                <h3>Tecnología y equipos de buceo</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                    Doloribus excepturi adipisci vero quod reprehenderit vel 
                    voluptatibus quasi fuga cumque id mollitia optio distinctio
@@ -112,12 +112,12 @@
         
         <div class="card">
             <div class="face front">
-            <img src="../imagenes/cardh.jpg" alt="1">
-                <h3>rusia</h3> 
+            <img src="../imagenes/img7.jpg" alt="1">
+                <h3>Destinos de buceo y turismo marino</h3> 
             </div>
 
             <div class="face back">
-                <h3>rusia</h3>
+                <h3>Destinos de buceo y turismo marino</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                    Doloribus excepturi adipisci vero quod reprehenderit vel 
                    voluptatibus quasi fuga cumque id mollitia optio distinctio
@@ -131,10 +131,10 @@
 
     </section>
 
-    <section id="section-2">
-     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgba(15, 166, 226, 0.877);"></path></svg></div>
-     <h1><br><br><br></h1>
-    </section>
+   
+    <section id="section-4">
+     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgb(255, 255, 255);"></path></svg></div>
+     </section>
 
      <footer id="footer">
       <div class="cajaInfo">
@@ -162,6 +162,5 @@
      </div>
         
      </footer>
-
 </body>
 </html>

@@ -29,7 +29,7 @@
         <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgb(255, 255, 255);"></path></svg></div>
     </header>
 
-    <section class"section-3">
+    <section class="section-3">
         <div class="cardh card-info">
             <div class="img-inf">
                <img src="./imagenes/mar.jpg" alt="">
@@ -57,7 +57,7 @@
 
         <div class="card">
             <figure>
-                <img src="../imagenes/card1.jpg" alt="">
+                <img src="./imagenes/img1.jpg" alt="">
             </figure>
             <div class="contenido">
                 <h3>La tortuga Carey</h3>
@@ -68,7 +68,7 @@
 
         <div class="card">
             <figure>
-                <img src="../imagenes/card2.jpg" alt="">
+                <img src="./imagenes/img2.jpg" alt="">
             </figure>
             <div class="contenido">
                 <h3>Tiburon gato</h3>
@@ -80,7 +80,7 @@
 
         <div class="card">
             <figure>
-                <img src="../imagenes/card3.jpg" alt="">
+                <img src="./imagenes/img3.jpg" alt="">
             </figure>
             <div class="contenido">
                 <h3>Pez loro</h3>
@@ -90,13 +90,23 @@
         </div>
 
     </div>
+
+    
+     </section>
+
+     
+     
+     <section id="section-4">
+     <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C149.99,150.00 271.49,-49.98 500.00,49.98 L500.00,0.00 L0.00,0.00 Z" style="stroke: none; fill: #fff;"></path></svg></div>
      </section>
 
      <section id="section-3">
         
         <div class="cardh">
+            
             <figure>
-                <img src="../imagenes/cardh.jpg" alt="">
+
+                <img src="./imagenes/cardh.jpg" alt="">
             </figure>
             <div class="contenido">
                 <h3>La ruta migratoria del Océano Pacífico Tropical en peligro</h3>
