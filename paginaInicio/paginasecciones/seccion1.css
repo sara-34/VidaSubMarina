@@ -1,10 +1,10 @@
 *{
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
 
 }
 
 body{
-    background: rgb(10, 140, 150);
+    background: #025373;
 }
 
 .section-padding{
@@ -66,7 +66,10 @@ body{
     letter-spacing: 2px;
 
 }
-
+.bg-dark {
+    --bs-bg-opacity: 1;
+   
+}
 
 .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover{
     color: black;
@@ -194,7 +197,7 @@ footer {
   }
   
   input[type="submit"] {
-    background-color: #4CAF50;
+    background-color: #699EBF;;
     color: white;
     border: none;
   }

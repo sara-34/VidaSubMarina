@@ -4,13 +4,14 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family:'Times New Roman', Times, serif;
 
 }
 
 body{
-    background: rgb(15, 166, 226);
+    background: #025373;
 }
+
 
 
 
@@ -21,7 +22,8 @@ nav{
 nav > a{
     color: rgb(255, 255, 255);
     font-weight: 300;
-    text-decoration: none;
+    font-size: 20px;
+    text-decoration: underline;
     margin-right: 10px;
 }
 
@@ -38,7 +40,7 @@ nav > a:hover{
     flex-wrap:wrap ;
     justify-content: center;
     align-items: center;
-    background: rgb(15, 166, 226);
+    background: #025373;
    
    
 }
@@ -185,7 +187,7 @@ footer {
   }
   
   input[type="submit"] {
-    background-color: #4CAF50;
+    background-color: #699EBF;
     color: white;
     border: none;
   }

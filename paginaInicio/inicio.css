@@ -3,7 +3,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family:'Times New Roman', Times, serif;
 
 }
 
@@ -11,14 +11,16 @@ header{
     width: 100%;
     height: 600px;
     background: #2C3E50; 
-    background: -webkit-linear-gradient(to right, #00020388, #1e466e8e), url(../imagenes/partesu.jpg); 
-    background: linear-gradient(to right, #00000081, #1e466e7a), url(../imagenes/partesu.jpg); 
+    background: -webkit-linear-gradient(to right, #00020388, #1e466e8e), url(./imagenes/partesu.jpg); 
+    background: linear-gradient(to right, #00000081, #1e466e7a), url(./imagenes/partesu.jpg); 
     background-size: cover;
     background-attachment: fixed;
     position: relative;
 
 }
-
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover{
+    color: black;
+}
 nav{
     text-align: right;
     padding: 30px 50px 0 0;
@@ -78,12 +80,21 @@ header .textos-header{
 .section-3{
     
     width: 100%;
-    height: 60vh;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;  
 }
 
+.cardh h3{
+    font-weight:bold;
+    margin-top: -55px;
+    color: white;
+}
+
+.cardh p{
+    font-size: 14px;
+}
 .cardh{
     background-color: #699EBF;
     box-shadow: 0 0 0.9375rem;
@@ -93,8 +104,13 @@ header .textos-header{
 
 }
 
+.cardh img{
+    padding: 20px;
+    width: 100%;
+}
+
 .contenido a{
-    background:#025373;
+    background:#A3C9D9;
     border: 1px solid #023859;
 }
 .cardh .contenido a{
@@ -103,8 +119,8 @@ header .textos-header{
     display: inline-block;
     padding: 10px;
     margin-top: 10px;
-    color: white !important;
-    border: 1px solid #023859 !important;
+    color: #011526 !important;
+    border: 1px solid #A3C9D9 !important;
     border-radius: 4px;
     transition: all 400ms ease;
     
@@ -112,7 +128,7 @@ header .textos-header{
 }
 
 .cardh .contenido a:hover{
-    background:#025373 !important;
+    background:#A3C9D9 !important;
     color: white !important;
 }
 
@@ -159,8 +175,8 @@ section{
     justify-content: center;
     align-items: center;
     background: #2C3E50; 
-    background: -webkit-linear-gradient(to right,  #43a1af81, #89d4e07a), url(../imagenes/partesu.jpg); 
-    background: linear-gradient(to right, #43a1af81, #89d4e07a), url(../imagenes/partesu.jpg); 
+    background: -webkit-linear-gradient(to right, #00020388, #1e466e8e), url(./imagenes/partesu.jpg); 
+    background: linear-gradient(to right, #00000081, #1e466e7a), url(./imagenes/partesu.jpg); 
     background-size: cover;
     
 }
@@ -184,7 +200,7 @@ section .container{
     box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
     cursor: default;
     transition: all 400ms ease;
-    background-color: #2472c09f;
+    background-color: #023859;
 
 }
 
@@ -210,8 +226,14 @@ section .container{
 }
 
 .card .contenido h3{
-    font-weight: 400;
+    color: white;
+    font-weight: bold;
     margin-bottom:  15px;
+}
+
+.imagenesCard img{
+    padding: 20px;
+    width: 100%;
 }
 
 .card .contenido a{
@@ -240,11 +262,11 @@ section .container{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(../imagenes/cardh.jpg);
+    background: #025373;
 }
 
 .cardh{
-    background-color: #226eb6b7;
+    background-color: #023859;
     box-shadow: 0 0 0.9375rem;
     width: 800px;
     border-radius: 4px;
@@ -313,6 +335,10 @@ footer {
   .contacto, .cajaComentario {
     width: 45%;
   }
+
+  .contacto p{
+    font-size: 20px;
+  }
   
   .cajaComentario {
     width: 20%;
@@ -324,6 +350,8 @@ footer {
     justify-content: center;
     align-items: center;
   }
+
+  
   
   form {
     margin-left: 15px;
@@ -360,8 +388,50 @@ footer {
     font-weight: 200;
     background: linear-gradient(#00E4F1, #01DAEB, #01C3DC);
     font-family: Arial, Helvetica, sans-serif; 
-    
-
   }
 
- 
+  .card-fin{
+    margin-top: -5px;
+  }
+  .custom-button {
+    background-color: #699EBF; /* Color de fondo del botón */
+    color: white; /* Color del texto del botón */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    border: none; /* Elimina el borde del botón */
+    border-radius: 5px; /* Redondea las esquinas del botón */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+
+
+.navbar-nav a{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.navbar-dark .navbar-brand{
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover{
+    color: black;
+}
+
+
+.w-100{
+    height: 100vh;
+
+}
+
+.navbar-toggler{
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0.3;
+
+}

@@ -17,11 +17,14 @@
 <header>
         <nav>
           
-            <a href="">inicio</a>
-            <a href="#footer">contactanos</a>
-            <a href="/VidaSubmarina/paginaInicio/paginasecciones/secciones.php">secciones</a>
+            <a href="">Inicio</a>
+            <a href="#footer">Contactanos</a>
+            <a href="https://kertiax.itch.io/feed-the-fish">Juego</a>
+            
           
         </nav>
+
+        
         <section class="textos-header">
             <h1>La vida submarina en colombia</h1>
             <p>Colombia es una de las cinco naciones con mayor diversidad marina en el planeta. Gracias a sus condiciones biogeográficas es considerado un país privilegiado porque cuenta naturalmente con costas en dos océanos y con gran variedad de ecosistemas marinos y costeros.</p>
@@ -43,7 +46,8 @@
             o el agua salobre de los estuarios costeros. 
             En un nivel fundamental, la vida marina ayuda a 
             determinar la naturaleza misma de nuestro planeta.</p>
-                <a href="#">Leer mas</a>
+                <a href="/VidaSubmarina/paginaInicio/paginasecciones/secciones.php">Leer mas</a>
+                
             </div>
         </div>
     </section>
@@ -56,36 +60,36 @@
     <div class="container">
 
         <div class="card">
-            <figure>
-                <img src="./imagenes/img1.jpg" alt="">
+            <figure class="imagenesCard">
+                <img src="./imagenes/tortuga.jpg" alt="">
             </figure>
             <div class="contenido">
                 <h3>La tortuga Carey</h3>
                 <p>En menos de diez años, la tortuga carey podría desaparecer en el Pacífico Oriental. Los científicos alertan de la delicada situación en la que se encuentra esta especie de tortuga marina, una de las más amenazadas del mundo.</p>
-                <a href="#">Leer mas</a>
+                
             </div>
         </div>
 
         <div class="card">
-            <figure>
-                <img src="./imagenes/img2.jpg" alt="">
+           <figure class="imagenesCard">
+                <img src="./imagenes/tiburong.jpg" alt="">
             </figure>
             <div class="contenido">
-                <h3>Tiburon gato</h3>
+                <h3><b>Tiburon gato</b></h3>
                 <p>El tiburón nodriza o tiburón gato​ es una especie de tiburón que habita en los fondos marinos, llega a medir hasta 4 m de largo y puede encontrarse en mares tropicales como los de Centro América.</p>
-                <a href="#">Leer mas</a>
+                
             </div>
         </div>
 
 
         <div class="card">
-            <figure>
-                <img src="./imagenes/img3.jpg" alt="">
+            <figure class="imagenesCard">
+                <img src="./imagenes/pez.jpg" alt="">
             </figure>
             <div class="contenido">
                 <h3>Pez loro</h3>
                 <p>Un estudio reciente realizado para la Lista Roja de Especies Amenazadas de la UICN descubrió que el 86% de las poblaciones de peces loro tienen bajo riesgo de extinción a nivel mundial</p>
-                <a href="#">Leer mas</a>
+                
             </div>
         </div>
 
@@ -94,56 +98,45 @@
     
      </section>
 
-     
-     
-     <section id="section-4">
-     <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C149.99,150.00 271.49,-49.98 500.00,49.98 L500.00,0.00 L0.00,0.00 Z" style="stroke: none; fill: #fff;"></path></svg></div>
-     </section>
 
      <section id="section-3">
-        
-        <div class="cardh">
-            
+        <div class="cardh card-fin">
             <figure>
-
-                <img src="./imagenes/cardh.jpg" alt="">
+                <img src="./imagenes/oceano.jpg" alt="">
             </figure>
             <div class="contenido">
-                <h3>La ruta migratoria del Océano Pacífico Tropical en peligro</h3>
-                <p>El Pacífico Colombiano además de albergar a miles de especies animales y vegetales, en sus profundidades tiene una “superautopista” submarina. Se trata de un pasadizo vital para tortugas marinas, tiburones, ballenas y tiburones martillo que transitan de un extremo al otro buscando alimento o lugar para anidar. </p>
-                <a href="#">Leer mas</a>
+                <h3><b>La ruta migratoria del Océano Pacífico Tropical en peligro</b></h3>
+                <p>El Pacífico Colombiano además de albergar a miles de especies animales y vegetales, en sus profundidades tiene una “superautopista” submarina. Se trata de un pasadizo vital para tortugas marinas, tiburones, ballenas y tiburones martillo que transitan de un extremo al otro buscando alimento o lugar para anidar.</p>
+                <a href="/VidaSubmarina/paginaInicio/paginasecciones/noticias.php">Noticias</a>
             </div>
         </div>
      </section>
 
 
      <section id="section-4">
-     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgb(255, 255, 255);"></path></svg></div>
+     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: #A3C9D9;"></path></svg></div>
      </section>
 
      <footer id="footer">
       <div class="cajaInfo">
       <div class="contacto">
-    <h4><i class="fas fa-envelope"></i> Correo Electronico</h4>
-    <p>vidamarina@gmail.com</p><br>
+        <h4><i class="fas fa-envelope"></i> Correo Electronico</h4>
+        <p>vidamarina@gmail.com</p><br>
 
-    <h4><i class="fas fa-phone"></i> Telefono</h4>
-    <p>3134567889</p><br>
+        <h4><i class="fas fa-phone"></i> Telefono</h4>
+        <p>3134567889</p><br>
 
-    <h4><i class="fas fa-map-marker-alt"></i> Dirección</h4>
-    <p>Carrera 92#67 Ibague</p>
-</div>
-
+        <h4><i class="fas fa-map-marker-alt"></i> Dirección</h4>
+        <p>Carrera 92#67 Ibague</p>
+     </div>
 
         <div class="cajaComentario">
             <form action="" method="post">
                 <h5>Ingresa tu comentario de recomendacíon:</h5>
                 <textarea rows="5" cols="30"></textarea><br><br>
-               <input type="submit" value="Enviar comentario">
+                <input type="submit" value="Enviar comentario" class="custom-button">
             </form>
-
         </div>
-
      </div>
         
      </footer>

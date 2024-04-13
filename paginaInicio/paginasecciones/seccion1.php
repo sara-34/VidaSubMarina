@@ -57,26 +57,29 @@
     <div class="carousel-inner">
         
         <div class="carousel-item active">
-            <img src="../imagenes/img8.jpg" class="d-block w-100" alt="1">
+            <img src="../imagenes/extintos.jpg" class="d-block w-100" alt="1">
+            
             <div class="carousel-caption">
                 <h5>ANIMALES EXTINTOS</h5>
-                <p>
-                    Lorem ipsum dolor,sit amet consectetur adipisicing elit. Odio eaque harum 
-                    natus aliquid pariatur quas mollitia et ipsam inventore blanditiis quam ratione, alias cumque quo 
-                    odit magni. Ullam, atque iure?
+                <p> 
+                    La extinción de especies es un fenómeno natural que ha ocurrido a lo largo de la historia de la Tierra. Sin embargo, en los últimos siglos, la actividad humana ha acelerado drásticamente el ritmo de extinción de especies, llevando a la desaparición de numerosos animales en un corto período de tiempo. La introducción de especies exóticas, la destrucción de hábitats naturales, 
+                    la contaminación, la caza indiscriminada y el cambio climático son algunas 
+                    de las principales causas de la extinción de animales.
                 </p>
             </div>
         </div>
 
 
         <div class="carousel-item ">
-            <img src="../imagenes/img9.jpg" class="d-block w-100" alt="1">
+            <img src="../imagenes/curiosos.jpg" class="d-block w-100" alt="1">
             <div class="carousel-caption">
-                <h5>eeeeee</h5>
+                <h5>Datos curiosos del mar</h5>
                 <p>
-                    Lorem ipsum dolor,sit amet consectetur adipisicing elit. Odio eaque harum 
-                    natus aliquid pariatur quas mollitia et ipsam inventore blanditiis quam ratione, alias cumque quo 
-                    odit magni. Ullam, atque iure?
+                Mayor parte del planeta: Los océanos cubren aproximadamente el 71% de la superficie de la Tierra, convirtiéndolos en la mayor parte del planeta.
+
+                Profundidades extremas: El punto más profundo conocido en los océanos es la Fosa de las Marianas, que alcanza una profundidad de más de 10,900 metros.
+
+                Especies desconocidas: Se estima que más del 80% de las especies marinas aún no han sido descubiertas o catalogadas por la ciencia.
                 </p>
             </div>
         </div>
@@ -84,13 +87,14 @@
 
 
         <div class="carousel-item ">
-            <img src="../imagenes/img10.jpg" class="d-block w-100" alt="1">
+            <img src="../imagenes/curioso.jpg" class="d-block w-100" alt="1">
             <div class="carousel-caption">
-                <h5>aaaaaaaa</h5>
+                <h5>Datos Curiosos</h5>
                 <p>
-                    Lorem ipsum dolor,sit amet consectetur adipisicing elit. Odio eaque harum 
-                    natus aliquid pariatur quas mollitia et ipsam inventore blanditiis quam ratione, alias cumque quo 
-                    odit magni. Ullam, atque iure?
+                Productores de oxígeno: Más del 50% del oxígeno del planeta proviene del fitoplancton, pequeñas plantas marinas que realizan fotosíntesis en los océanos.
+                 Redes de comunicación: Las ballenas jorobadas son conocidas por sus complejas canciones que utilizan para comunicarse, y se cree que estas canciones pueden viajar miles de kilómetros bajo el agua.
+                Grandes migraciones: Algunas especies marinas, como el atún y las ballenas, realizan migraciones épicas a lo largo de miles de kilómetros en busca de alimento o para reproducirse.
+                
                 </p>
             </div>
         </div>
@@ -134,13 +138,12 @@
         </div>
         <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
             <div class="about-text text-white">
-                <h2>Introduccion a la vida marina <br>SABIAS QUE</h2>
+            <h2><b>Introduccion a la vida marina</b></h2>
+            <h5><b>Sabias Que</b></h5>
                 <P>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet quo odit eligendi
-                    quaerat quae voluptatibus facilis ab cum pariatur magnam,
-                    sunt fugiat ipsa officia laudantium tenetur quibusdam porro deleniti? Placeat!
+                Los océanos del mundo —su temperatura, química, corrientes y vida— mueven sistemas mundiales que hacen que la Tierra sea habitable para la humanidad. Las precipitaciones, el agua potable, el clima, el tiempo, las costas, gran parte de los alimentos e incluso el oxígeno del aire provienen, en última instancia, del mar y son regulados por este. Históricamente, los océanos y los mares han sido cauces vitales del comercio y el transporte. La gestión sostenible de este recurso mundial esencial es una característica clave de un futuro con bienestar.
                 </P>
-                <a href="#" class="btn btn-primary">mas informacion</a>
+                
 
             </div>
         </div>
@@ -154,13 +157,12 @@
         </div>
         <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
             <div class="about-text text-white">
-                <h2>Introduccion a la vida marina <br>SABIAS QUE</h2>
+            <h2><b>Introduccion a la vida marina</b></h2>
+            <h5><b>Sabias Que</b></h5>
                 <P>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet quo odit eligendi
-                    quaerat quae voluptatibus facilis ab cum pariatur magnam,
-                    sunt fugiat ipsa officia laudantium tenetur quibusdam porro deleniti? Placeat!
+                Hay tanto que no sabemos sobre las profundidades del mar, e innumerables especies nunca antes vistas. Nuestro planeta está profundamente interconectado –lo que sucede en las profundidades del mar impacta la vida en la tierra– y viceversa", afirma Wendy Schmidt, cofundadora del Schmidt Ocean Institute.
                 </P>
-                <a href="#" class="btn btn-primary">mas informacion</a>
+                
 
             </div>
         </div>
@@ -174,13 +176,12 @@
         </div>
         <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
             <div class="about-text text-white">
-                <h2>Introduccion a la vida marina <br>SABIAS QUE</h2>
+                <h2><b>Introduccion a la vida marina</b></h2>
+                <h5><b>Sabias Que</b></h5>
                 <P>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet quo odit eligendi
-                    quaerat quae voluptatibus facilis ab cum pariatur magnam,
-                    sunt fugiat ipsa officia laudantium tenetur quibusdam porro deleniti? Placeat!
+                Sumergidas en las abisales aguas inexploradas de los cañones submarinos del arrecife australiano del Ningaloo, una expedición científica ha documentado por primera vez centenares de especies que habitan este ecosistema del océano Índico, treinta de ellas hasta ahora desconocidas para la ciencia
                 </P>
-                <a href="#" class="btn btn-primary">mas informacion</a>
+                
 
             </div>
         </div>
@@ -198,10 +199,7 @@
             <div class="section-header text-center text-white pb-5">
                 <h2>ANIMALES QUE PELIGRAN</h2>
                 <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Animi numquam magnam explicabo architecto maxime officia illum, 
-                    minus, placeat pariatur voluptate quod. Pariatur, dignissimos sequi. Nobis commodi reprehenderit
-                    architecto veniam molestias?
+                Pero nuestro océano se enfrenta a muchas amenazas. Solo el 8 % del océano está legalmente protegido y alrededor de un tercio de las pesquerías controladas del mundo están sobreexplotadas. A nivel mundial, ya hemos perdido un tercio de los manglares y la mitad de los arrecifes de coral. Las especies marinas, incluidos algunos tiburones, ballenas y tortugas, podrían verse en peligro de extinción.
                 </p>
             </div>
         </div>
@@ -212,14 +210,14 @@
         <div class="col-12 col-md-12 col-lg-4">
             <div class="card text-white text-center bg-dark pb-2">
                 <div class="card-body">
-                    <i class="bi bi-laptop"></i>
-                    <h3 class="card-tittle">registro</h3>
+                    
+                    <h3 class="card-tittle">Conservacion Marina</h3>
                     <p class="lead">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam 
-                        tenetur quod harum reiciendis numquam tempore velit temporibus
-                        minima veniam inventore vero similique cum, modi odio ad quisquam. Sed, molestias in?
+                    En la década de 1950, el desarrollo del aparato de submarinismo revolucionó el buceo, y su tecnología continúa evolucionando. El equipo actual es de líneas puras, ligero y colorido, y los avances en la eficacia de los sistemas de respiración están transformando de nuevo el buceo.
+
+
                     </p>
-                    <button class="btn bg-primary text-white">mas informacion</button>
+                    <a href="https://www.educa2.madrid.org/web/argos/inicio/-/book/historia-y-tecnologia-del-buceo?_book_viewer_WAR_cms_tools_chapterIndex=83e349c2-507d-4071-a4b5-4afea35fa50b">Mas Informacion</a>
                 </div>
             </div>
         </div>
@@ -228,14 +226,13 @@
         <div class="col-12 col-md-12 col-lg-4">
             <div class="card text-white text-center bg-dark pb-2">
                 <div class="card-body">
-                    <i class="bi bi-wifi"></i>
-                    <h3 class="card-tittle">internet</h3>
+                   
+                    <h3 class="card-tittle">Tecnología de buseo</h3>
                     <p class="lead">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam 
-                        tenetur quod harum reiciendis numquam tempore velit temporibus
-                        minima veniam inventore vero similique cum, modi odio ad quisquam. Sed, molestias in?
+                    El buceo en Colombia es una experiencia excepcional que ofrece la oportunidad de explorar los espectaculares tesoros subacuáticos que el país tiene para ofrecer. Con sus aguas cristalinas, arrecifes de coral coloridos y una diversidad de vida marina asombrosa, Colombia se ha convertido en un destino popular para los amantes del buceo. En este artículo te presentamos 10 destinos emocionantes para bucear en Colombia que te sumergirán en un mundo submarino lleno de maravillas.
                     </p>
-                    <button class="btn bg-primary text-white">mas informacion</button>
+                    <a href="https://www.viajesexito.com/Portals/blog/destinos-bucear-colombia.html">Mas Informacion</a>
+                    
                 </div>
             </div>
         </div>
@@ -244,14 +241,12 @@
         <div class="col-12 col-md-12 col-lg-4">
             <div class="card text-white text-center bg-dark pb-2">
                 <div class="card-body">
-                    <i class="bi bi-tv"></i>
-                    <h3 class="card-tittle">tv</h3>
+                   
+                    <h3 class="card-tittle">Historia</h3>
                     <p class="lead">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam 
-                        tenetur quod harum reiciendis numquam tempore velit temporibus
-                        minima veniam inventore vero similique cum, modi odio ad quisquam. Sed, molestias in?
+                    El avance más destacado de los últimos años es el de la máscara de buceo con pantalla informática. De esta manera, la información que aparece en el ordenador de buceo, explicado en el capítulo de “el equipo ligero”, aparezca en una pantalla LCD. A su vez, también se pueden adquirir máscaras con un sistema de radio para permitir la comunicación entre dos o más buceadores.
                     </p>
-                    <button class="btn bg-primary text-white">mas informacion</button>
+                    <a href="https://www.nature.org/es-us/que-hacemos/nuestra-vision/perspectivas/conservacion-marina-la-vida-depende-de-ella/">Mas Informacion</a>
                 </div>
             </div>
         </div>
@@ -271,10 +266,9 @@
     <div class="row">
         <div class="col-md-12">
             <div class="section-header text-center text-white pb-5">
-                <h2>sabias que</h2>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur, 
-                    atque. Adipisci aut consequuntur aliquid quaerat, veritatis rerum atque 
-                    non earum natus minima unde fugit explicabo maxime illo nihil sunt corporis.
+                <h2>¿Sabias Que?</h2>
+                <p>Las corrientes oceánicas, como la Corriente del Golfo, tienen un impacto significativo en el clima global al transportar calor y nutrientes a través de los océanos.
+                   Se estima que hay miles de naufragios y tesoros ocultos en los fondos marinos de todo el mundo, atrayendo a buzos y arqueólogos en busca de historias perdidas.
                 </p>
             </div>
         </div>
@@ -339,7 +333,7 @@
 
 
 <section id="section-4">
-     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill: rgb(255, 255, 255);"></path></svg></div>
+     <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill:#699EBF;"></path></svg></div>
      </section>
 
      <footer id="footer">
