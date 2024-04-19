@@ -30,7 +30,7 @@
 
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/vidaMarina.jpg" alt="2">
+                <img src="../imagenes/delfin.gif" alt="2">
                 <h3>La vida submarina</h3> 
             </div>
 
@@ -52,7 +52,7 @@
         
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/exploracion.jpg" alt="2">
+                <img src="../imagenes/ballena.gif" alt="2">
                 <h3>Exploración de especies marinas</h3> 
             </div>
 
@@ -70,7 +70,7 @@
         
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/conservacion.jpg" alt="2">
+                <img src="../imagenes/tortugas.gif" alt="2">
                 <h3>Conservación marina</h3> 
             </div>
 
