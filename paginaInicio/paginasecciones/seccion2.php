@@ -11,7 +11,7 @@
 </head>
 <body>
     
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<nav class="navbar navbar-expand-lg navbar-dark  fixed-top">
     <div class="container">
         <a href="#" class="navbar-brand"> <span class="text-primary">Vida</span>Submarina</a>
         <button class="navbar-toggler" type="button"

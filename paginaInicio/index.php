@@ -20,8 +20,6 @@
             <a href="">Inicio</a>
             <a href="#footer">Contactanos</a>
             <a href="https://kertiax.itch.io/feed-the-fish">Juego</a>
-            
-          
         </nav>
 
         
@@ -58,7 +56,6 @@
 
    <section id="section-2">
     <div class="container">
-
         <div class="card">
             <figure class="imagenesCard">
                 <img src="./imagenes/tortuga.jpg" alt="">

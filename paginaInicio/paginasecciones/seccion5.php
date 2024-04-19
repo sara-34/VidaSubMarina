@@ -8,10 +8,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <link rel="stylesheet" href="seccion1.css">
 
+    
 </head>
 <body>
     
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<nav class="navbar navbar-expand-lg navbar-dark  fixed-top">
     <div class="container">
         <a href="#" class="navbar-brand"> <span class="text-primary">Vida</span>Submarina</a>
         <button class="navbar-toggler" type="button"
@@ -276,7 +277,7 @@
 
     <div class="row">
         <div class="col-12 col-md-12 col-lg-4">
-            <div class="card text-light text-center bg-dark pb-2">
+            <div class="card text-light text-center pb-2">
                 <div class="card-body text-white">
                     <div class="img-area mb-4">
                         <img src="../imagenes/img14.jpg" alt="">

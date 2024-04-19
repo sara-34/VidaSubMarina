@@ -11,7 +11,7 @@
 </head>
 <body>
     
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<nav class="navbar navbar-expand-lg navbar-dark  fixed-top">
     <div class="container">
         <a href="#" class="navbar-brand"> <span class="text-primary">Vida</span>Submarina</a>
         <button class="navbar-toggler" type="button"
@@ -195,17 +195,6 @@
 <div class="container">
 
     <div class="row">
-        <div class="col-md.12">
-            <div class="section-header text-center text-white pb-5">
-                <h2>ANIMALES QUE PELIGRAN</h2>
-                <p>
-                Pero nuestro océano se enfrenta a muchas amenazas. Solo el 8 % del océano está legalmente protegido y alrededor de un tercio de las pesquerías controladas del mundo están sobreexplotadas. A nivel mundial, ya hemos perdido un tercio de los manglares y la mitad de los arrecifes de coral. Las especies marinas, incluidos algunos tiburones, ballenas y tortugas, podrían verse en peligro de extinción.
-                </p>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
 
         <div class="col-12 col-md-12 col-lg-4">
             <div class="card text-white text-center bg-dark pb-2">
@@ -263,17 +252,16 @@
 <section class="portafolio section-padding">
 
 <div class="container">
-    <div class="row">
-        <div class="col-md-12">
+<div class="row">
+        <div class="col-md.12">
             <div class="section-header text-center text-white pb-5">
-                <h2>¿Sabias Que?</h2>
-                <p>Las corrientes oceánicas, como la Corriente del Golfo, tienen un impacto significativo en el clima global al transportar calor y nutrientes a través de los océanos.
-                   Se estima que hay miles de naufragios y tesoros ocultos en los fondos marinos de todo el mundo, atrayendo a buzos y arqueólogos en busca de historias perdidas.
+                <h2>ANIMALES QUE PELIGRAN</h2>
+                <p>
+                Pero nuestro océano se enfrenta a muchas amenazas. Solo el 8 % del océano está legalmente protegido y alrededor de un tercio de las pesquerías controladas del mundo están sobreexplotadas. A nivel mundial, ya hemos perdido un tercio de los manglares y la mitad de los arrecifes de coral. Las especies marinas, incluidos algunos tiburones, ballenas y tortugas, podrían verse en peligro de extinción.
                 </p>
             </div>
         </div>
     </div>
-
     <div class="row">
         <div class="col-12 col-md-12 col-lg-4">
             <div class="card text-light text-center bg-dark pb-2">
@@ -285,7 +273,7 @@
                     <p class="lead">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro perferendis amet voluptatum. Temporibus dolore provident eligendi, tempore consectetur mollitia veniam dicta explicabo expedita tenetur aut fugit perspiciatis veritatis, maxime doloremque?
                     </p>
-                    <button class="btn bg-primary text-white">mas informacion</button>
+                    
                 </div>
             </div>
         </div>
@@ -301,7 +289,7 @@
                     <p class="lead">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro perferendis amet voluptatum. Temporibus dolore provident eligendi, tempore consectetur mollitia veniam dicta explicabo expedita tenetur aut fugit perspiciatis veritatis, maxime doloremque?
                     </p>
-                    <button class="btn bg-primary text-white">mas informacion</button>
+                    
                 </div>
             </div>
         </div>
@@ -317,7 +305,7 @@
                     <p class="lead">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro perferendis amet voluptatum. Temporibus dolore provident eligendi, tempore consectetur mollitia veniam dicta explicabo expedita tenetur aut fugit perspiciatis veritatis, maxime doloremque?
                     </p>
-                    <button class="btn bg-primary text-white">mas informacion</button>
+                    
                 </div>
             </div>
         </div>

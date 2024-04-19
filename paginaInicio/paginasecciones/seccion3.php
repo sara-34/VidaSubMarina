@@ -11,7 +11,7 @@
 </head>
 <body>
     
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<nav class="navbar navbar-expand-lg navbar-dark  fixed-top">
     <div class="container">
         <a href="#" class="navbar-brand"> <span class="text-primary">Vida</span>Submarina</a>
         <button class="navbar-toggler" type="button"
@@ -224,7 +224,7 @@
 
 
         <div class="col-12 col-md-12 col-lg-4">
-            <div class="card text-white text-center bg-dark pb-2">
+            <div class="card text-white text-center pb-2">
                 <div class="card-body">
                    
                     <h3 class="card-tittle">Tecnología de buseo</h3>

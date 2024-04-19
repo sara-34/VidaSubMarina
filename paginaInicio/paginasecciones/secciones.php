@@ -18,6 +18,7 @@
             <a href="/VidaSubmarina/paginaInicio/">Inicio</a>
             <a href="#footer">Contactanos</a>
             <a href="#">Secciones</a>
+            <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion1.php">Detalles</a>
         </nav>
 
 
@@ -43,9 +44,7 @@
                     fitoplancton hasta animales más grandes 
                     omo peces, mamíferos marinos, crustáceos, moluscos y corales.
                 </p>
-                <div class="link">
-                    <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion1.php">Detalles</a>
-                </div>        
+                       
             </div>
         </div>
             
@@ -63,9 +62,7 @@
                     fascinante que busca comprender y estudiar la diversidad biológica que habita en los océanos y otros cuerpos de agua. Esta exploración no solo se centra en descubrir nuevas especies, sino también en comprender sus hábitats, comportamientos, interacciones con el entorno
                      y su importancia dentro de los ecosistemas acuáticos.
                 </p>
-                <div class="link">
-                    <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion2.php">Detalles</a>
-                </div>        
+                       
             </div>
         </div>
             
@@ -81,9 +78,7 @@
                 <h3>Conservación marina</h3>
                 <p>La conservación marina es un área crucial de la gestión ambiental que se enfoca en proteger y preservar los ecosistemas marinos y las especies que dependen de ellos. Comprende una serie de medidas y estrategias destinadas a mitigar los impactos negativos de la actividad humana en los océanos y promover un uso sostenible de los recursos marinos.
                 </p>
-                <div class="link">
-                    <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion3.php">Detalles</a>
-                </div>        
+                        
             </div>
         </div>
 
@@ -99,9 +94,7 @@
                 <h3>Tecnología y equipos de buceo</h3>
                 <p>La tecnología de buceo ha revolucionado la forma en que los seres humanos exploran y estudian el mundo submarino. Desde sus primeros días hasta las innovaciones actuales, el buceo ha permitido a los buceadores sumergirse en un entorno fascinante y diverso, brindando acceso a ecosistemas marinos, naufragios históricos y vida marina extraordinaria.
                 </p>
-                <div class="link">
-                    <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion4.php">Detalles</a>
-                </div>        
+                        
             </div>
         </div>
 
@@ -119,11 +112,11 @@
                 <h3>Destinos de buceo y turismo marino</h3>
                 <p>El buceo y el turismo marino son actividades emocionantes que permiten a las personas explorar los impresionantes ecosistemas submarinos y disfrutar de experiencias únicas en entornos acuáticos.
                 </p>
-                <div class="link">
-                    <a href="/VidaSubmarina/paginaInicio/paginasecciones/seccion5.php">Detalles</a>
-                </div>        
+                       
             </div>
         </div>
+
+        
 
     </section>
 

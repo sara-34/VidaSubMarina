@@ -4,44 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Noticias Marinas</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
-    header {
-        background-color: #333;
-        color: #fff;
-        padding: 10px 20px;
-        text-align: center;
-    }
-    nav {
-        background-color: #f0f0f0;
-        padding: 10px 20px;
-    }
-    nav ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-    }
-    nav ul li {
-        display: inline-block;
-        margin-right: 20px;
-    }
-    article {
-        padding: 20px;
-    }
-    footer {
-        background-color: #333;
-        color: #fff;
-        text-align: center;
-        padding: 10px 20px;
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-    }
-</style>
+<link rel="stylesheet" href="noticias.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
 </head>
 <body>
     <header>
@@ -49,20 +14,45 @@
     </header>
     <nav>
         <ul>
-            <li><a href="#">Inicio</a></li>
-            <li><a href="#">Noticia 1</a></li>
-            <li><a href="#">Noticia 2</a></li>
-            <li><a href="#">Noticia 3</a></li>
+            <li><a href="/VidaSubmarina/paginaInicio/">Inicio</a></li>
+            <li><a href="https://cnnespanol.cnn.com/tag/vida-marina/">Canal de noticias 1</a></li>
+            <li><a href="https://es.euronews.com/green/2024/04/17/prohibir-las-redes-de-arrastre-de-fondo-en-las-zonas-marinas-protegidas-seria-bueno-para-t">Canal de Noticias 2</a></li>
+            <li><a href="https://es.wired.com/articulos/la-amenaza-humana-bajo-a-las-profundidades-marinas-tiburones-y-rayas-estan-en-riesgo-por-sobrepesca">Canal de noticias 3</a></li>
         </ul>
     </nav>
-    <article>
-        <h2>Título de la noticia 1</h2>
-        <p>Texto de la noticia 1.</p>
-        <h2>Título de la noticia 2</h2>
-        <p>Texto de la noticia 2.</p>
-        <h2>Título de la noticia 3</h2>
-        <p>Texto de la noticia 3.</p>
-    </article>
+    <div class="grid-container">
+  <article class="card">
+    <img src="../imagenes/card1.jpg" alt="Imagen del mar 1">
+  </article>
+
+  <article class="card">
+    <img src="../imagenes/card2.jpg" alt="Imagen del mar 2">
+  </article>
+
+  <article class="card">
+    <img src="../imagenes/card3.jpg" alt="Imagen del mar 3">
+  </article>
+
+  <article class="card">
+    <img src="../imagenes/card4.jpg" alt="Imagen del mar 4">
+  </article>
+
+  <article class="card">
+    <img src="../imagenes/card5.jpg" alt="Imagen del mar 5">
+  </article>
+
+  <article class="card">
+    <img src="../imagenes/card6.jpg" alt="Imagen del mar 6">
+  </article>
+
+  <article class="card">
+    <img src="../imagenes/card7.jpg" alt="Imagen del mar 7">
+  </article>
+
+  <article class="card">
+    <img src="../imagenes/card8.jpg" alt="Imagen del mar 8">
+  </article>
+</div>
     <footer>
         <p>&copy; 2024 Noticias Marinas</p>
     </footer>
