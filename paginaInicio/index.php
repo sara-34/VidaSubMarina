@@ -137,7 +137,7 @@ mysqli_close($conex);
      <section id="section-3">
         <div class="cardh card-fin">
             <figure>
-                <img src="./imagenes/oceano.jpg" alt="">
+            <img src="./imagenes/mare.gif" alt="">
             </figure>
             <div class="contenido">
                 <h3><b>La ruta migratoria del Océano Pacífico Tropical en peligro</b></h3>

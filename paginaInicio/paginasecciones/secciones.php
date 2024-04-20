@@ -30,7 +30,7 @@
 
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/vidaMarina.jpg" alt="2">
+                <img src="../imagenes/ballena.gif" alt="2">
                 <h3>La vida submarina</h3> 
             </div>
 
@@ -52,7 +52,7 @@
         
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/exploracion.jpg" alt="2">
+                <img src="../imagenes/explora.gif" alt="2">
                 <h3>Exploración de especies marinas</h3> 
             </div>
 
@@ -70,7 +70,7 @@
         
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/conservacion.jpg" alt="2">
+                <img src="../imagenes/delfin.gif" alt="2">
                 <h3>Conservación marina</h3> 
             </div>
 
@@ -86,7 +86,7 @@
         
         <div class="card">
             <div class="face front">
-                <img src="../imagenes/buceo.jpg" alt="2">
+                <img src="../imagenes/exp.gif" alt="2">
                 <h3>Tecnología y equipos de buceo</h3> 
             </div>
 
@@ -104,7 +104,7 @@
         
         <div class="card">
             <div class="face front">
-            <img src="../imagenes/destinos.jpg" alt="1">
+            <img src="../imagenes/buceos.gif" alt="1">
                 <h3>Destinos de buceo y turismo marino</h3> 
             </div>
 
