@@ -13,16 +13,6 @@
     
 <nav class="navbar navbar-expand-lg navbar-dark  fixed-top">
     <div class="container">
-        <a href="#" class="navbar-brand"> <span class="text-primary">Vida</span>Submarina</a>
-        <button class="navbar-toggler" type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarS"
-            aria-controls="navbarS"
-            aria-expanded="false"
-            aria-label="toggle navigation"
-        >
-        <span class="navbar-toggle-icon"></span>
-        </button>
         <div class="collapse navbar-collapse" id="navbars">
             <ul class="navbar-nav ms-auto mb-2 mb.lg-0">
                 <li class="nav-item">
@@ -269,9 +259,11 @@
                     <div class="img-area mb-4">
                         <img src="../imagenes/img14.jpg" alt="">
                     </div>
-                    <h3>mira esto 1</h3>
+                    <h3>Ballena Azul</h3>
                     <p class="lead">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro perferendis amet voluptatum. Temporibus dolore provident eligendi, tempore consectetur mollitia veniam dicta explicabo expedita tenetur aut fugit perspiciatis veritatis, maxime doloremque?
+                    La caza indiscriminada de este ejemplar lo llevó a ser declarado en peligro de extinción. Desde el siglo xix, su población original se redujo hasta en un 90 %. En la actualidad existen aproximadamente 8000 ejemplares.
+                    Debido a que es un animal que nada rápido y que flota una vez muerto (a diferencia de otros mamíferos) es muy fácil de cazar, y sumado a que su cuerpo rinde el equivalente a 40 barriles de aceite (7200 litros).
+                     Solo tienen cría cada tres años, promedio que perjudica su protección, que en la actualidad contabiliza solo unos 10000 individuos, de los cuales el 20 % han sido registrados en jurisdicción de Argentina.
                     </p>
                     
                 </div>
@@ -285,9 +277,9 @@
                     <div class="img-area mb-4">
                         <img src="../imagenes/img15.jpg" alt="">
                     </div>
-                    <h3>mira esto 2</h3>
+                    <h3>Caballo de mar</h3>
                     <p class="lead">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro perferendis amet voluptatum. Temporibus dolore provident eligendi, tempore consectetur mollitia veniam dicta explicabo expedita tenetur aut fugit perspiciatis veritatis, maxime doloremque?
+                    El caballito de mar es un pez marino perteneciente a la familia Syngnathidae, conocida por su peculiar forma de caballo. Son criaturas fascinantes que habitan en aguas poco profundas y se adhieren a objetos como algas o corales con sus colas prensiles. Son monógamos y el macho lleva a cabo la gestación de los huevos en una bolsa en su abdomen. Se alimentan principalmente de pequeños crustáceos y plancton. Debido a su fragilidad y su explotación para la medicina tradicional, están en peligro y su conservación es crucial para mantener el equilibrio ecológico marino.
                     </p>
                     
                 </div>
@@ -301,9 +293,13 @@
                     <div class="img-area mb-4">
                         <img src="../imagenes/img1.jpg" alt="">
                     </div>
-                    <h3>mira esto 3</h3>
+                    <h3>Las Medusas</h3>
                     <p class="lead">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro perferendis amet voluptatum. Temporibus dolore provident eligendi, tempore consectetur mollitia veniam dicta explicabo expedita tenetur aut fugit perspiciatis veritatis, maxime doloremque?
+                    Las medusas son criaturas marinas pertenecientes al grupo de los cnidarios, que también incluye corales y anémonas. Tienen un cuerpo gelatinoso y generalmente transparente, con tentáculos que contienen células urticantes llamadas cnidocitos, utilizadas para capturar presas y defenderse.
+
+Algunas especies de medusas son venenosas y su picadura puede ser dolorosa e incluso peligrosa para los humanos. Sin embargo, muchas medusas son inofensivas y desempeñan un papel importante en el ecosistema marino como parte de la cadena alimentaria.
+
+Las medusas son animales simples en términos de estructura, pero han existido en la Tierra durante millones de años y han desarrollado adaptaciones sorprendentes para sobrevivir en diversos ambientes marinos.
                     </p>
                     
                 </div>
@@ -324,32 +320,21 @@
      <div class="wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-2.45,22.22 C120.49,94.25 336.05,2.48 502.45,45.89 L500.00,150.00 L-3.28,151.48 Z" style="stroke: none; fill:#699EBF;"></path></svg></div>
      </section>
 
-     <footer id="footer">
-      <div class="cajaInfo">
+<footer id="footer">
+    <div class="cajaInfo">
       <div class="contacto">
-    <h4><i class="fas fa-envelope"></i> Correo Electronico</h4>
-    <p>vidamarina@gmail.com</p><br>
-
-    <h4><i class="fas fa-phone"></i> Telefono</h4>
-    <p>3134567889</p><br>
-
-    <h4><i class="fas fa-map-marker-alt"></i> Dirección</h4>
-    <p>Carrera 92#67 Ibague</p>
-</div>
-
-
-        <div class="cajaComentario">
-            <form action="" method="post">
-                <h5>Ingresa tu comentario de recomendacíon:</h5>
-                <textarea rows="5" cols="30"></textarea><br><br>
-               <input type="submit" value="Enviar comentario">
-            </form>
-
-        </div>
-
-     </div>
-        
-     </footer>
+         <h4><i class="fas fa-envelope"></i> Correo Electronico</h4>
+          <p>vidamarina@gmail.com</p><br>
+          <h4><i class="fas fa-phone"></i> Telefono</h4>
+          <p>3134567889</p><br>
+          <h4><i class="fas fa-map-marker-alt"></i> Dirección</h4>
+          <p>Carrera 92#67 Ibague</p>
+      </div>
+      <div class="logoshm">
+        <img src="../imagenes/logoSHM.png" alt="logo">
+      </div>  
+    </div>        
+</footer>
 
 
 

@@ -1,6 +1,44 @@
 <?php
+// Establecer la conexión con la base de datos
+$conex = mysqli_connect("localhost:3308", "root", "", "vidasubmarina");
 
+if (!$conex) {
+    die("Error al conectar con la base de datos: " . mysqli_connect_error());
+}
+
+if (isset($_POST['comentario'])) {
+    // Escapar los datos del formulario para evitar inyección de SQL
+    $comentario = mysqli_real_escape_string($conex, $_POST['comentario']);
+
+    // Consulta SQL para insertar los datos en la tabla
+    $consulta = "INSERT INTO comentario (texto) 
+                 VALUES ('$comentario')";
+    
+    if (mysqli_query($conex, $consulta)) {
+        // Mostrar mensaje de éxito en JavaScript
+        echo '<script>';
+        echo 'alert("Comentario Guardado Correctamente");';
+        echo 'setTimeout(function() {';
+        echo '  window.location.href = "index.php";'; // Redirigir después de un segundo
+        echo '}, 1000);'; // Tiempo en milisegundos (1000 = 1 segundo)
+        echo '</script>';
+    } else {
+        // Mostrar mensaje de error en JavaScript
+        echo '<script>';
+        echo 'alert("Error al guardar comentario: ' . mysqli_error($conex) . '");';
+        echo 'setTimeout(function() {';
+        echo '  window.location.href = "index.php";'; // Redirigir después de un segundo
+        echo '}, 1000);'; // Tiempo en milisegundos (1000 = 1 segundo)
+        echo '</script>';
+    }
+
+    
+}
+
+// Cerrar la conexión con la base de datos
+mysqli_close($conex);
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -127,15 +165,15 @@
         <p>Carrera 92#67 Ibague</p>
      </div>
 
-        <div class="cajaComentario">
-            <form action="" method="post">
-                <h5>Ingresa tu comentario de recomendacíon:</h5>
-                <textarea rows="5" cols="30"></textarea><br><br>
-                <input type="submit" value="Enviar comentario" class="custom-button">
-            </form>
-        </div>
-     </div>
+     <div class="cajaComentario">
+        <form method="post" action="index.php">
+            <h5>Ingresa tu comentario de recomendación:</h5>
+            <textarea name="comentario" rows="5" cols="30"></textarea><br><br>
+            <input type="submit" value="Enviar comentario" class="custom-button">
+        </form>
+    </div>
         
      </footer>
+     <?php include 'mostrar_comentarios.php'; ?>
 </body>
 </html>

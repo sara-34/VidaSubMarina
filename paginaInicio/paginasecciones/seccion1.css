@@ -188,14 +188,10 @@ footer {
   
   .contacto h4, .cajaComentario h6 {
     color: #fff;
+    font-weight: bold;
   }
   
-  input[type="search"], input[type="submit"] {
-    padding: 8px;
-    margin-top: 5px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
+  
   
   input[type="submit"] {
     background-color: #699EBF;;
@@ -204,8 +200,11 @@ footer {
   }
 
   .contacto{
-    font-size: 30px;
     text-align: center;
+  }
+
+  .contacto p{
+    font-size: 20px;
   }
   
   .inicio{
@@ -219,4 +218,10 @@ footer {
     font-family: Arial, Helvetica, sans-serif; 
     
 
+  }
+  
+.logoshm img{
+        width: 250px;
+        height: 250px;
+    
   }

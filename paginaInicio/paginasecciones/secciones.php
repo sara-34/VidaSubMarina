@@ -126,30 +126,19 @@
      </section>
 
      <footer id="footer">
-      <div class="cajaInfo">
+    <div class="cajaInfo">
       <div class="contacto">
-    <h4><i class="fas fa-envelope"></i> Correo Electronico</h4>
-    <p>vidamarina@gmail.com</p><br>
-
-    <h4><i class="fas fa-phone"></i> Telefono</h4>
-    <p>3134567889</p><br>
-
-    <h4><i class="fas fa-map-marker-alt"></i> Dirección</h4>
-    <p>Carrera 92#67 Ibague</p>
-</div>
-
-
-        <div class="cajaComentario">
-            <form action="" method="post">
-                <h5>Ingresa tu comentario de recomendacíon:</h5>
-                <textarea rows="5" cols="30"></textarea><br><br>
-               <input type="submit" value="Enviar comentario">
-            </form>
-
-        </div>
-
-     </div>
-        
-     </footer>
+         <h4><i class="fas fa-envelope"></i> Correo Electronico</h4>
+          <p>vidamarina@gmail.com</p><br>
+          <h4><i class="fas fa-phone"></i> Telefono</h4>
+          <p>3134567889</p><br>
+          <h4><i class="fas fa-map-marker-alt"></i> Dirección</h4>
+          <p>Carrera 92#67 Ibague</p>
+      </div>
+      <div class="logoshm">
+        <img src="../imagenes/logoSHM.png" alt="logo">
+      </div>  
+    </div>        
+</footer>
 </body>
 </html>
