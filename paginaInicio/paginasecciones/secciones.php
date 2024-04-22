@@ -31,6 +31,7 @@
         <div class="card">
             <div class="face front">
                 <img src="../imagenes/ballena.gif" alt="2">
+                <audio src="../audios/sonidooceano.mp3" type="audio/mp3" autoplay ></audio>
                 <h3>La vida submarina</h3> 
             </div>
 

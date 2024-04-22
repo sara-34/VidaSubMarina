@@ -23,34 +23,42 @@
     <div class="grid-container">
   <article class="card">
     <img src="../imagenes/card1.jpg" alt="Imagen del mar 1">
+    <audio src="../audios/sonidotiburonballena.mp3" type="audio/mp3" controls ></audio>
   </article>
 
   <article class="card">
     <img src="../imagenes/card2.jpg" alt="Imagen del mar 2">
+    
   </article>
 
   <article class="card">
     <img src="../imagenes/card3.jpg" alt="Imagen del mar 3">
+    <audio src="../audios/sonidofoca.mp3" type="audio/mp3" controls ></audio>
   </article>
 
   <article class="card">
     <img src="../imagenes/card4.jpg" alt="Imagen del mar 4">
+    <audio src="../audios/sonidodelfin.mp3" type="audio/mp3" controls ></audio>
   </article>
 
   <article class="card">
     <img src="../imagenes/card5.jpg" alt="Imagen del mar 5">
+    <audio src="../audios/sonidomar.mp3" type="audio/mp3" controls ></audio>
   </article>
 
   <article class="card">
     <img src="../imagenes/card6.jpg" alt="Imagen del mar 6">
+    <audio src="../audios/sonidoballena.mp3" type="audio/mp3" controls ></audio>
   </article>
 
   <article class="card">
     <img src="../imagenes/card7.jpg" alt="Imagen del mar 7">
+    
   </article>
 
   <article class="card">
     <img src="../imagenes/card8.jpg" alt="Imagen del mar 8">
+    
   </article>
 </div>
     <footer>

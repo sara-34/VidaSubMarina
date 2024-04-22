@@ -42,13 +42,15 @@
         background-color: #023859;
         color: #fff;
         text-align: center;
-        padding: 10px 20px;
+        padding: 0px 60px;
         position: fixed;
         bottom: 0;
         width: 100%;
+        margin-top: 20px;
+        
     }
     .grid-container {
-        margin-top: 20px;
+        margin-top: 30px;
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
         grid-gap: 20px;
@@ -72,4 +74,20 @@
         height: auto;
         display: block;
       }
+      
+       audio{
+        width: 100%;
+        margin-top: 10px; 
+      }
+
+      audio::-webkit-media-controls-play-button {
+        background-color: #ffffff; /* Color de fondo del botón de reproducción */
+        color: #ffffff; /* Color del ícono del botón de reproducción */
+        border-radius: 50%; /* Hace que el botón de reproducción sea redondo */
+      }
+      
+      audio::-webkit-media-controls-play-button:hover {
+        background-color: #035181; /* Cambia el color de fondo al pasar el mouse */
+      }
+
       
